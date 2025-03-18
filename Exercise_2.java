@@ -1,3 +1,6 @@
+// Time Complexity : o(1)
+// Space Complexity : o(1)
+
 public class Exercise_2 { 
   
     StackNode root; 

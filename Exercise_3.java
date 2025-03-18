@@ -1,4 +1,7 @@
 import java.io.*; 
+
+// Time Complexity : o(n)
+// Space Complexity : o(1)
   
 // Java program to implement 
 // a Singly Linked List 
